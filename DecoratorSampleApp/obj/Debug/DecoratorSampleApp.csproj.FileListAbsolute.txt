@@ -1,0 +1,5 @@
+D:\Academic\DesignPatterns\Odev\Decorator\DecoratorSampleApp\DecoratorSampleApp\bin\Debug\DecoratorSampleApp.exe
+D:\Academic\DesignPatterns\Odev\Decorator\DecoratorSampleApp\DecoratorSampleApp\bin\Debug\DecoratorSampleApp.pdb
+D:\Academic\DesignPatterns\Odev\Decorator\DecoratorSampleApp\DecoratorSampleApp\obj\Debug\DecoratorSampleApp.csprojResolveAssemblyReference.cache
+D:\Academic\DesignPatterns\Odev\Decorator\DecoratorSampleApp\DecoratorSampleApp\obj\Debug\DecoratorSampleApp.exe
+D:\Academic\DesignPatterns\Odev\Decorator\DecoratorSampleApp\DecoratorSampleApp\obj\Debug\DecoratorSampleApp.pdb
